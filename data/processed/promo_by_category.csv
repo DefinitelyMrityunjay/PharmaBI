@@ -1,0 +1,11 @@
+category,promoflag,transactions,avg_units,avg_revenue,avg_margin,margin_pct
+Medical Devices,No,5321,2.3,146.52,37.97,25.9
+Medical Devices,Yes,730,2.26,127.33,21.63,17.0
+OTC,No,17096,9.17,94.21,28.54,30.3
+OTC,Yes,2316,9.03,80.64,17.39,21.6
+Personal Care,No,9785,9.22,134.29,46.03,34.3
+Personal Care,Yes,1288,8.77,109.13,28.28,25.9
+Prescription,No,11514,4.82,215.76,49.52,22.9
+Prescription,Yes,1606,4.84,194.74,26.81,13.8
+Wellness,No,10992,7.18,139.57,48.13,34.5
+Wellness,Yes,1491,7.07,119.56,30.87,25.8

@@ -1,0 +1,11 @@
+productid,productname,category,brand,transactions,total_units,total_revenue,total_margin,margin_pct
+PR0025,AntiBioX ACE Inhibitor 400 mg,Prescription,AntiBioX,285,1393,107479.38,28467.88,26.5
+PR0041,OncoAssist Antidepressant 40 mg,Prescription,OncoAssist,322,1499,104707.51,26099.58,24.9
+PR0080,CardioPro Inhaler 10 mg,Prescription,CardioPro,288,1349,80132.47,14006.22,17.5
+PR0123,OncoAssist Antibiotic 400 mg,Prescription,OncoAssist,267,1355,62266.22,11644.74,18.7
+PR0015,DermRx Inhaler 400 mg,Prescription,DermRx,280,1353,59179.09,13852.93,23.4
+PR0020,VitaCare Vitamin C 400 mg,OTC,VitaCare,361,3308,54780.01,18278.69,33.4
+PR0218,PainLess Antacid 20 mg,OTC,PainLess,331,3150,52737.07,14007.87,26.6
+PR0155,Medica Cough Syrup 400 mg,OTC,Medica,343,3266,52251.53,12832.25,24.6
+PR0049,GlucoSafe Inhaler 200 mg,Prescription,GlucoSafe,199,986,51282.85,10776.38,21.0
+PR0033,PainLess Paracetamol 400 mg,OTC,PainLess,355,3177,47171.66,13445.99,28.5

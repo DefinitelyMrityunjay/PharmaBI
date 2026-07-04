@@ -1,0 +1,41 @@
+country,category,total_revenue,margin_pct
+Austria,Prescription,224788.71,22.0
+Austria,Wellness,145002.93,33.8
+Austria,OTC,141325.97,29.4
+Austria,Personal Care,109305.38,33.4
+Austria,Medical Devices,62858.18,25.2
+Belgium,Prescription,383658.23,21.8
+Belgium,OTC,267778.92,29.5
+Belgium,Wellness,240626.38,33.5
+Belgium,Personal Care,227149.45,33.5
+Belgium,Medical Devices,127297.79,24.8
+France,Prescription,467923.99,22.0
+France,OTC,292988.14,29.3
+France,Wellness,275722.35,33.6
+France,Personal Care,231652.35,33.3
+France,Medical Devices,138524.91,25.3
+Germany,Prescription,514065.58,22.0
+Germany,OTC,325105.48,29.4
+Germany,Wellness,309058.41,33.6
+Germany,Personal Care,261662.57,33.6
+Germany,Medical Devices,157741.91,24.8
+Italy,Prescription,420845.06,21.9
+Italy,OTC,273650.94,29.5
+Italy,Wellness,267531.94,33.6
+Italy,Personal Care,225918.17,33.5
+Italy,Medical Devices,144209.4,25.0
+Netherlands,Prescription,310781.54,21.9
+Netherlands,OTC,195458.05,29.3
+Netherlands,Wellness,181744.21,33.5
+Netherlands,Personal Care,163090.47,33.5
+Netherlands,Medical Devices,96673.93,25.1
+Poland,Prescription,227457.84,21.9
+Poland,OTC,153534.71,29.4
+Poland,Wellness,146206.89,33.5
+Poland,Personal Care,114671.02,33.6
+Poland,Medical Devices,72365.27,24.8
+Spain,Prescription,247494.81,21.7
+Spain,OTC,147487.34,29.3
+Spain,Wellness,146563.77,33.6
+Spain,Personal Care,121153.74,33.3
+Spain,Medical Devices,72900.58,24.8

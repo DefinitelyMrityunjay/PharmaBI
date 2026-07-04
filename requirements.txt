@@ -1,0 +1,12 @@
+pandas
+numpy
+openpyxl
+matplotlib
+seaborn
+jupyter
+boto3
+pyathena
+scikit-learn
+prophet
+awswrangler
+python-dotenv

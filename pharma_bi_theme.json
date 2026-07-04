@@ -1,0 +1,24 @@
+{
+  "name": "PharmaBI Theme",
+  "dataColors": [
+    "#2C6FAC",
+    "#3A9E6F",
+    "#E07B3A",
+    "#9B5EA0",
+    "#C0392B",
+    "#1ABC9C",
+    "#F39C12"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#2D2D2D",
+  "tableAccent": "#2C6FAC",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 10 }],
+        "color": [{ "solid": { "color": "#2D2D2D" } }]
+      }
+    }
+  }
+}

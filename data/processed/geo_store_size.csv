@@ -1,0 +1,4 @@
+storesizeband,pharmacy_count,transactions,total_revenue,total_margin,avg_revenue_per_tx,margin_pct,avg_rev_per_pharmacy,avg_tx_per_pharmacy,size_label
+L,25,19781,3172447.08,890224.58,160.38,28.1,126898.0,791,Large
+M,53,28181,3835577.81,1075037.57,136.11,28.0,72369.0,531,Medium
+S,42,14177,1625952.42,455878.92,114.69,28.0,38713.0,337,Small

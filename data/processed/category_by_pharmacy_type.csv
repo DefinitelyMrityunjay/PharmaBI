@@ -1,0 +1,16 @@
+pharmacytype,category,pharmacy_count,transactions,total_revenue,avg_revenue_per_pharmacy,margin_pct
+Rural,Prescription,23,2142,443134.18,19266.7,22.0
+Rural,OTC,23,3205,300643.03,13071.44,29.2
+Rural,Wellness,23,2055,278646.41,12115.06,33.6
+Rural,Personal Care,23,1820,235526.27,10240.27,33.4
+Rural,Medical Devices,23,962,141432.59,6149.24,25.0
+Suburban,Prescription,47,4710,1009509.1,21478.92,21.9
+Suburban,OTC,47,7034,649249.81,13813.83,29.4
+Suburban,Wellness,47,4481,616861.89,13124.72,33.7
+Suburban,Personal Care,47,4012,531164.15,11301.36,33.5
+Suburban,Medical Devices,47,2166,302510.61,6436.4,25.0
+Urban,Prescription,50,6268,1344372.48,26887.45,21.9
+Urban,OTC,50,9173,847436.71,16948.73,29.4
+Urban,Wellness,50,5947,816948.58,16338.97,33.5
+Urban,Personal Care,50,5241,687912.73,13758.25,33.5
+Urban,Medical Devices,50,2923,428628.77,8572.58,24.9

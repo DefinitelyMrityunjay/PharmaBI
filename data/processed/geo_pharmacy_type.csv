@@ -1,0 +1,4 @@
+pharmacytype,pharmacy_count,transactions,total_units,total_revenue,total_margin,avg_revenue_per_tx,margin_pct,revenue_share_pct,avg_rev_per_pharmacy,avg_tx_per_pharmacy
+Urban,50,29552,212285,4125299.27,1154324.75,139.59,28.0,47.8,82506.0,591
+Suburban,47,22403,158564,3109295.56,873866.68,138.79,28.1,36.0,66155.0,476
+Rural,23,10184,74944,1399382.48,392949.64,137.41,28.1,16.2,60843.0,442

@@ -1,0 +1,6 @@
+category,transactions,total_units,total_revenue,total_margin,avg_revenue_per_tx,avg_margin_per_tx,avg_units_per_tx,margin_pct,revenue_share_pct,revenue_per_unit
+Prescription,13120,63277,2797015.76,613166.39,213.19,46.74,4.82,21.9,32.4,44.2
+OTC,19412,177686,1797329.55,528166.03,92.59,27.21,9.15,29.4,20.8,10.12
+Wellness,12483,89423,1712456.88,575117.0,137.18,46.07,7.16,33.6,19.8,19.15
+Personal Care,11073,101510,1454603.15,486875.18,131.36,43.97,9.17,33.5,16.8,14.33
+Medical Devices,6051,13897,872571.97,217816.47,144.2,36.0,2.3,25.0,10.1,62.79

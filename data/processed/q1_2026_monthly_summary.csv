@@ -1,0 +1,16 @@
+category,month,month_name,projected_revenue,lower_bound,upper_bound
+Medical Devices,1,January,35101.0,3315.0,68248.0
+OTC,1,January,94017.0,59906.0,128255.0
+Personal Care,1,January,59244.0,18706.0,99914.0
+Prescription,1,January,116217.0,46452.0,185923.0
+Wellness,1,January,67353.0,22984.0,111541.0
+Medical Devices,2,February,32453.0,3040.0,62597.0
+OTC,2,February,88962.0,57609.0,119893.0
+Personal Care,2,February,58579.0,22262.0,94840.0
+Prescription,2,February,103401.0,40498.0,165880.0
+Wellness,2,February,66015.0,26831.0,105724.0
+Medical Devices,3,March,35379.0,3427.0,68666.0
+OTC,3,March,75703.0,41791.0,110043.0
+Personal Care,3,March,61721.0,20547.0,101987.0
+Prescription,3,March,120546.0,50377.0,190678.0
+Wellness,3,March,88940.0,44962.0,132873.0

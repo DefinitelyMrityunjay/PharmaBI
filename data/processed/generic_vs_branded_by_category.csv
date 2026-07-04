@@ -1,0 +1,5 @@
+category,isgeneric,product_count,transactions,total_units,total_revenue,avg_revenue_per_tx,avg_units_per_tx,margin_pct,revenue_per_unit,label
+OTC,No,41,13105,120027,1223425.85,93.36,9.16,29.5,10.19,Branded
+OTC,Yes,20,6307,57659,573903.7,90.99,9.14,29.2,9.95,Generic
+Prescription,No,34,9590,46249,2110528.09,220.08,4.82,21.8,45.63,Branded
+Prescription,Yes,13,3530,17028,686487.67,194.47,4.82,22.4,40.32,Generic

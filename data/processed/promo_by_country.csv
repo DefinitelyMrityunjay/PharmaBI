@@ -1,0 +1,17 @@
+country,promoflag,transactions,avg_revenue,avg_margin,margin_pct
+Austria,No,4150,147.84,42.89,29.0
+Austria,Yes,543,128.41,26.6,20.7
+Belgium,No,7320,152.88,44.52,29.1
+Belgium,Yes,960,132.7,26.16,19.7
+France,No,8986,140.01,40.51,28.9
+France,Yes,1201,123.77,24.73,20.0
+Germany,No,9355,149.66,43.39,29.0
+Germany,Yes,1273,131.65,26.17,19.9
+Italy,No,8707,137.04,39.79,29.0
+Italy,Yes,1165,119.31,23.96,20.1
+Netherlands,No,5403,157.59,45.53,28.9
+Netherlands,Yes,735,131.01,26.09,19.9
+Poland,No,5833,109.35,31.76,29.0
+Poland,Yes,808,94.52,18.79,19.9
+Spain,No,4954,131.07,37.96,29.0
+Spain,Yes,746,115.65,22.42,19.4

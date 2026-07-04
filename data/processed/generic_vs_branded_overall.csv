@@ -1,0 +1,3 @@
+isgeneric,product_count,transactions,total_units,total_revenue,total_margin,avg_revenue_per_tx,avg_margin_per_tx,avg_units_per_tx,margin_pct,revenue_per_unit,tx_share_pct,revenue_share_pct,label
+No,187,52302,371106,7373585.94,2100014.93,140.98,40.15,7.1,28.5,19.87,84.2,85.4,Branded
+Yes,33,9837,74687,1260391.37,321126.14,128.13,32.64,7.59,25.5,16.88,15.8,14.6,Generic

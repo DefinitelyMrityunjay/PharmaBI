@@ -1,0 +1,7 @@
+pharmacytype,isgeneric,transactions,total_revenue,avg_revenue_per_tx,margin_pct,tx_share_within_type,label
+Rural,No,8584,1196039.16,139.33,28.5,84.3,Branded
+Rural,Yes,1600,203343.32,127.09,25.6,15.7,Generic
+Suburban,No,18869,2658345.36,140.88,28.5,84.2,Branded
+Suburban,Yes,3534,450950.2,127.6,25.5,15.8,Generic
+Urban,No,24849,3519201.42,141.62,28.4,84.1,Branded
+Urban,Yes,4703,606097.85,128.87,25.4,15.9,Generic

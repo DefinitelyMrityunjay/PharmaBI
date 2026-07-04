@@ -1,0 +1,7 @@
+pharmacytype,promoflag,transactions,avg_revenue,avg_margin,margin_pct
+Rural,No,8904,139.53,40.64,29.1
+Rural,Yes,1280,122.66,24.31,19.8
+Suburban,No,19800,141.05,40.92,29.0
+Suburban,Yes,2603,121.57,24.48,20.1
+Urban,No,26004,141.8,41.05,29.0
+Urban,Yes,3548,123.41,24.45,19.8

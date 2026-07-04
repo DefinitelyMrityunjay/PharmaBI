@@ -1,0 +1,33 @@
+brand,category,transactions,total_revenue,total_margin,margin_pct,revenue_share_pct
+AntiBioX,Prescription,2935,726405.27,169919.75,23.4,8.4
+GlucoSafe,Prescription,2211,482885.75,105695.75,21.9,5.6
+NeuroMed,Prescription,1818,474936.83,101464.96,21.4,5.5
+DermRx,Prescription,2014,403308.53,86135.05,21.4,4.7
+PainLess,OTC,3689,392994.53,109221.15,27.8,4.6
+BioBalance,Wellness,2772,388566.68,127775.11,32.9,4.5
+ImmunoPlus,Wellness,2267,343443.34,115744.58,33.7,4.0
+EuroRelief,OTC,3288,319436.62,100982.88,31.6,3.7
+SmileBright,Personal Care,2960,318619.3,106101.78,33.3,3.7
+Medica,OTC,3638,302059.66,82429.3,27.3,3.5
+HairEssence,Personal Care,1582,292565.21,96453.18,33.0,3.4
+RxNova,Prescription,1405,290983.04,59274.77,20.4,3.4
+NutriCore,Wellness,2279,286577.99,96162.3,33.6,3.3
+ZenHealth,Wellness,2100,285039.66,100650.45,35.3,3.3
+VitaCare,OTC,2497,252556.21,74484.36,29.5,2.9
+FreshLine,Personal Care,2463,241523.62,84448.15,35.0,2.8
+DermaSoft,Personal Care,1570,218809.29,73139.38,33.4,2.5
+CleanWave,Personal Care,1614,216095.88,69871.98,32.3,2.5
+GlucoMeterX,Medical Devices,1084,213518.93,54145.6,25.4,2.5
+OncoAssist,Prescription,1252,212040.45,46447.48,21.9,2.5
+NatureFit,Wellness,1714,207503.99,71261.05,34.3,2.4
+CardioPro,Prescription,1485,206455.89,44228.63,21.4,2.4
+HerbaLife,Wellness,1351,201325.22,63523.51,31.6,2.3
+AllerFree,OTC,2470,196848.68,57510.08,29.2,2.3
+CareEquip,Medical Devices,1324,186024.24,47621.22,25.6,2.2
+ColdAway,OTC,2464,184629.15,56186.49,30.4,2.1
+SkinGuard,Personal Care,884,166989.85,56860.71,34.1,1.9
+DigestEase,OTC,1366,148804.7,47351.77,31.8,1.7
+HomeCheck,Medical Devices,909,134299.01,34983.25,26.0,1.6
+ThermoSense,Medical Devices,823,128680.99,33999.37,26.4,1.5
+OrthoSupport,Medical Devices,1053,121897.94,28419.97,23.3,1.4
+MediTech,Medical Devices,858,88150.86,18647.06,21.2,1.0
